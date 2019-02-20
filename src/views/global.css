@@ -1,0 +1,13 @@
+.bgView .ivu-table {
+    width: 100%;
+}
+
+.ivu-table td, .ivu-table th {
+    text-align: center;
+    height: 30px;
+}
+
+.ivu-table-cell {
+    padding-left: 0;
+    padding-right: 0;
+}
